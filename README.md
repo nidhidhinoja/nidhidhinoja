@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Nidhi Dhinoja
 
-## 🚀 About Me
-🎓 Final Year ICT Student | 💻 Software Developer | 🌍 Tech Enthusiast
+##  About Me
+Final Year ICT Student | Software Developer | Tech Enthusiast
 
 I'm a passionate developer currently focused on **MERN Stack** development. I enjoy building scalable applications, solving complex problems, and continuously learning new technologies to stay ahead in the field of software development.
 
@@ -41,4 +41,4 @@ I'm a passionate developer currently focused on **MERN Stack** development. I en
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhidhinoja&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=nidhidhinoja&theme=radical)
+![Snake animation](https://github.com/nidhidhinoja/nidhidhinoja/blob/output/github-contribution-grid-snake.svg)
