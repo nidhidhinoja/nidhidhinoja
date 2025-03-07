@@ -41,4 +41,3 @@ I'm a passionate developer currently focused on **MERN Stack** development. I en
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhidhinoja&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/nidhidhinoja/nidhidhinoja/blob/output/github-contribution-grid-snake.svg)
